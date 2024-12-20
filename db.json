@@ -121,12 +121,12 @@
         "id": "5"
     },
     {
-        "title": "Leather Wallet with Metal Trim",
-        "price": 75,
-        "description": "A compact leather wallet with sleek metallic accents. Combines functionality with a modern, sophisticated design.",
-        "category": "men's clothing",
-        "image": "https://i.imgur.com/TIEXQZ0.jpeg",
-        "id": "6"
+    "title": "Classic Tailored Suit",
+    "price": 300,
+    "description": "An impeccably tailored suit crafted from premium fabric. Designed for a perfect fit, it is ideal for weddings, formal events, or professional meetings.",
+    "category": "men's clothing",
+    "image": "https://i.imgur.com/px03md9.jpeg",
+    "id": "6"
     },
     {
         "title": "Crystal Drop Earrings",

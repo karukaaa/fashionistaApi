@@ -5,7 +5,7 @@
         "price": 120,
         "description": "A sleek and trendy leather jacket designed for a bold and fashionable look. Perfect for the modern adventurer.",
         "category": "men's clothing",
-        "image": "https://i.imgur.com/t1pn7Ts.jpeg",
+        "image": "https://i.imgur.com/xZGfKqb.jpeg",
         "id": "11"
     },
     {
@@ -13,7 +13,7 @@
         "price": 40,
         "description": "Soft and warm wool scarf, the perfect accessory for chilly days, offering both comfort and elegance.",
         "category": "women's clothing",
-        "image": "",
+        "image": "https://i.imgur.com/uje86MD.jpeg",
         "id": "12"
     },
     {
@@ -21,7 +21,7 @@
         "price": 90,
         "description": "A sharp, tailored blazer that gives you a clean, professional look. Ideal for business meetings or dinner dates.",
         "category": "men's clothing",
-        "image": "https://ibb.co.com/7nkFbVB",
+        "image": "https://i.imgur.com/t1pn7Ts.jpeg",
         "id": "13"
     },
     {
@@ -29,7 +29,7 @@
         "price": 65,
         "description": "A beautifully patterned floral dress, combining vintage charm with modern style. A timeless piece for any occasion.",
         "category": "women's clothing",
-        "image": "",
+        "image": "https://i.imgur.com/45wdDhT.jpeg",
         "id": "14"
     },
     {
@@ -37,7 +37,7 @@
         "price": 30,
         "description": "Sleek and simple, these gold hoop earrings are a must-have for any jewelry collection, adding elegance to any outfit.",
         "category": "jewelery",
-        "image": "",
+        "image": "https://i.imgur.com/SpDv9Cv.jpeg",
         "id": "15"
     },
     {
@@ -45,7 +45,7 @@
         "price": 150,
         "description": "Luxuriously soft cashmere sweater for ultimate comfort. Ideal for both formal and casual wear in cooler seasons.",
         "category": "women's clothing",
-        "image": "",
+        "image": "https://i.imgur.com/RqBnSga.jpeg",
         "id": "16"
     },
     {
@@ -53,7 +53,7 @@
         "price": 25,
         "description": "A casual, stylish graphic tee featuring bold prints. Perfect for daily wear or a relaxed weekend look.",
         "category": "men's clothing",
-        "image": "",
+        "image": "https://i.imgur.com/lx0m6QY.jpeg",
         "id": "17"
     },
     {
@@ -61,7 +61,7 @@
         "price": 75,
         "description": "A sophisticated silver pendant necklace, designed to complement any outfit with a touch of elegance and style.",
         "category": "jewelery",
-        "image": "",
+        "image": "https://i.imgur.com/AYltet4.jpeg",
         "id": "18"
     },
     {
@@ -69,7 +69,7 @@
         "price": 55,
         "description": "Chic high-waisted trousers offering a flattering fit and versatility for both office wear and evening outings.",
         "category": "women's clothing",
-        "image": "",
+        "image": "https://i.imgur.com/gdRXcz2.jpeg",
         "id": "19"
     },
     {
@@ -77,7 +77,7 @@
         "price": 85,
         "description": "Trendy casual sneakers, designed for comfort and style. Ideal for running errands or adding a casual touch to your outfits.",
         "category": "men's clothing",
-        "image": "",
+        "image": "https://i.imgur.com/fH4W3vG.jpeg",
         "id": "20"
     },
     {
@@ -85,7 +85,7 @@
         "price": 120,
         "description": "A timeless pearl necklace with a delicate silver chain. Perfect for evening wear, adding a touch of sophistication to any outfit.",
         "category": "jewelery",
-        "image": "",
+        "image": "https://i.imgur.com/hiDrmej.jpeg",
         "id": "1"
     },
     {
@@ -109,7 +109,7 @@
         "price": 140,
         "description": "A rugged yet stylish denim jacket with distressed details. Great for layering and creating an effortlessly cool look.",
         "category": "men's clothing",
-        "image": "",
+        "image": "https://i.imgur.com/x4bodRz.jpeg",
         "id": "4"
     },
     {
@@ -117,7 +117,7 @@
         "price": 110,
         "description": "A flowing maxi dress with intricate embroidery and lightweight fabric. Perfect for summer outings and beach vacations.",
         "category": "women's clothing",
-        "image": "",
+        "image": "https://i.imgur.com/wTSGqG5.jpeg",
         "id": "5"
     },
     {
@@ -125,7 +125,7 @@
         "price": 75,
         "description": "A compact leather wallet with sleek metallic accents. Combines functionality with a modern, sophisticated design.",
         "category": "men's clothing",
-        "image": "",
+        "image": "https://i.imgur.com/TIEXQZ0.jpeg",
         "id": "6"
     },
     {
@@ -133,15 +133,15 @@
         "price": 70,
         "description": "Elegant drop earrings with shimmering crystals. Ideal for special occasions or adding sparkle to your everyday style.",
         "category": "jewelery",
-        "image": "",
+        "image": "https://i.imgur.com/DS6zjVr.jpeg",
         "id": "7"
     },
     {
         "title": "Tailored Wool Coat",
         "price": 220,
         "description": "A luxurious tailored coat crafted from fine wool. Its structured silhouette exudes elegance and warmth for the colder seasons.",
-        "category": "men's clothing",
-        "image": "",
+        "category": "women's clothing",
+        "image": "https://i.imgur.com/cJACOQr.jpeg",
         "id": "8"
     },
     {
@@ -149,7 +149,7 @@
         "price": 250,
         "description": "A stunning evening gown with delicate lace overlays and a flattering silhouette. A perfect choice for galas and formal events.",
         "category": "women's clothing",
-        "image": "",
+        "image": "https://i.imgur.com/lYQcQMY.jpeg",
         "id": "9"
     },
     {
@@ -157,7 +157,7 @@
         "price": 320,
         "description": "An exquisite wristwatch with a diamond-studded bezel. Combines precision with unparalleled luxury for every occasion.",
         "category": "jewelery",
-        "image": "",
+        "image": "https://i.imgur.com/FWFaSYC.jpeg",
         "id": "10"
     }
 ]

@@ -1,6 +1,30 @@
 {
   "items" : [
     {
+        "title": "Tailored Wool Coat",
+        "price": 220,
+        "description": "A luxurious tailored coat crafted from fine wool. Its structured silhouette exudes elegance and warmth for the colder seasons.",
+        "category": "women's clothing",
+        "image": "https://i.imgur.com/cJACOQr.jpeg",
+        "id": "8"
+    },
+     {
+        "title": "Lace Evening Gown",
+        "price": 250,
+        "description": "A stunning evening gown with delicate lace overlays and a flattering silhouette. A perfect choice for galas and formal events.",
+        "category": "women's clothing",
+        "image": "https://i.imgur.com/lYQcQMY.jpeg",
+        "id": "9"
+    },
+     {
+        "title": "Vintage Floral Dress",
+        "price": 65,
+        "description": "A beautifully patterned floral dress, combining vintage charm with modern style. A timeless piece for any occasion.",
+        "category": "women's clothing",
+        "image": "https://i.imgur.com/45wdDhT.jpeg",
+        "id": "14"
+    },
+    {
         "title": "Stylish Leather Jacket",
         "price": 120,
         "description": "A sleek and trendy leather jacket designed for a bold and fashionable look. Perfect for the modern adventurer.",
@@ -24,14 +48,7 @@
         "image": "https://i.imgur.com/t1pn7Ts.jpeg",
         "id": "13"
     },
-    {
-        "title": "Vintage Floral Dress",
-        "price": 65,
-        "description": "A beautifully patterned floral dress, combining vintage charm with modern style. A timeless piece for any occasion.",
-        "category": "women's clothing",
-        "image": "https://i.imgur.com/45wdDhT.jpeg",
-        "id": "14"
-    },
+   
     {
         "title": "Gold Hoop Earrings",
         "price": 30,
@@ -121,12 +138,12 @@
         "id": "5"
     },
     {
-    "title": "Classic Tailored Suit",
-    "price": 300,
-    "description": "An impeccably tailored suit crafted from premium fabric. Designed for a perfect fit, it is ideal for weddings, formal events, or professional meetings.",
-    "category": "men's clothing",
-    "image": "https://i.imgur.com/px03md9.jpeg",
-    "id": "6"
+      "title": "Classic Tailored Suit",
+      "price": 300,
+      "description": "An impeccably tailored suit crafted from premium fabric. Designed for a perfect fit, it is ideal for weddings, formal events, or professional meetings.",
+      "category": "men's clothing",
+      "image": "https://i.imgur.com/px03md9.jpeg",
+      "id": "6"
     },
     {
         "title": "Crystal Drop Earrings",
@@ -135,22 +152,6 @@
         "category": "jewelery",
         "image": "https://i.imgur.com/DS6zjVr.jpeg",
         "id": "7"
-    },
-    {
-        "title": "Tailored Wool Coat",
-        "price": 220,
-        "description": "A luxurious tailored coat crafted from fine wool. Its structured silhouette exudes elegance and warmth for the colder seasons.",
-        "category": "women's clothing",
-        "image": "https://i.imgur.com/cJACOQr.jpeg",
-        "id": "8"
-    },
-    {
-        "title": "Lace Evening Gown",
-        "price": 250,
-        "description": "A stunning evening gown with delicate lace overlays and a flattering silhouette. A perfect choice for galas and formal events.",
-        "category": "women's clothing",
-        "image": "https://i.imgur.com/lYQcQMY.jpeg",
-        "id": "9"
     },
     {
         "title": "Diamond Studded Watch",

@@ -1,14 +1,164 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "items" : [
+    {
+        "title": "Stylish Leather Jacket",
+        "price": 120,
+        "description": "A sleek and trendy leather jacket designed for a bold and fashionable look. Perfect for the modern adventurer.",
+        "category": "men's clothing",
+        "image": "",
+        "id": "11"
+    },
+    {
+        "title": "Elegant Wool Scarf",
+        "price": 40,
+        "description": "Soft and warm wool scarf, the perfect accessory for chilly days, offering both comfort and elegance.",
+        "category": "women's clothing",
+        "image": "",
+        "id": "12"
+    },
+    {
+        "title": "Slim Fit Blazer",
+        "price": 90,
+        "description": "A sharp, tailored blazer that gives you a clean, professional look. Ideal for business meetings or dinner dates.",
+        "category": "men's clothing",
+        "image": "",
+        "id": "13"
+    },
+    {
+        "title": "Vintage Floral Dress",
+        "price": 65,
+        "description": "A beautifully patterned floral dress, combining vintage charm with modern style. A timeless piece for any occasion.",
+        "category": "women's clothing",
+        "image": "",
+        "id": "14"
+    },
+    {
+        "title": "Gold Hoop Earrings",
+        "price": 30,
+        "description": "Sleek and simple, these gold hoop earrings are a must-have for any jewelry collection, adding elegance to any outfit.",
+        "category": "jewelery",
+        "image": "",
+        "id": "15"
+    },
+    {
+        "title": "Cashmere Sweater",
+        "price": 150,
+        "description": "Luxuriously soft cashmere sweater for ultimate comfort. Ideal for both formal and casual wear in cooler seasons.",
+        "category": "women's clothing",
+        "image": "",
+        "id": "16"
+    },
+    {
+        "title": "Printed Graphic T-shirt",
+        "price": 25,
+        "description": "A casual, stylish graphic tee featuring bold prints. Perfect for daily wear or a relaxed weekend look.",
+        "category": "men's clothing",
+        "image": "",
+        "id": "17"
+    },
+    {
+        "title": "Silver Pendant Necklace",
+        "price": 75,
+        "description": "A sophisticated silver pendant necklace, designed to complement any outfit with a touch of elegance and style.",
+        "category": "jewelery",
+        "image": "",
+        "id": "18"
+    },
+    {
+        "title": "High-Waisted Trousers",
+        "price": 55,
+        "description": "Chic high-waisted trousers offering a flattering fit and versatility for both office wear and evening outings.",
+        "category": "women's clothing",
+        "image": "",
+        "id": "19"
+    },
+    {
+        "title": "Casual Sneakers",
+        "price": 85,
+        "description": "Trendy casual sneakers, designed for comfort and style. Ideal for running errands or adding a casual touch to your outfits.",
+        "category": "men's clothing",
+        "image": "",
+        "id": "20"
+    },
+    {
+        "title": "Elegant Pearl Necklace",
+        "price": 120,
+        "description": "A timeless pearl necklace with a delicate silver chain. Perfect for evening wear, adding a touch of sophistication to any outfit.",
+        "category": "jewelery",
+        "image": "",
+        "id": "1"
+    },
+    {
+        "title": "Silk Scarf Blouse",
+        "price": 85,
+        "description": "A chic silk blouse with an attached scarf collar. The flowy fabric and pastel tones make it ideal for formal and casual occasions.",
+        "category": "women's clothing",
+        "image": "",
+        "id": "2"
+    },
+    {
+        "title": "Gold-Plated Cuff Bracelet",
+        "price": 95,
+        "description": "This sleek, minimalist bracelet features a brushed gold finish. A versatile piece that complements both professional and casual outfits.",
+        "category": "jewelery",
+        "image": "",
+        "id": "3"
+    },
+    {
+        "title": "Vintage Denim Jacket",
+        "price": 140,
+        "description": "A rugged yet stylish denim jacket with distressed details. Great for layering and creating an effortlessly cool look.",
+        "category": "men's clothing",
+        "image": "",
+        "id": "4"
+    },
+    {
+        "title": "Boho Maxi Dress",
+        "price": 110,
+        "description": "A flowing maxi dress with intricate embroidery and lightweight fabric. Perfect for summer outings and beach vacations.",
+        "category": "women's clothing",
+        "image": "",
+        "id": "5"
+    },
+    {
+        "title": "Leather Wallet with Metal Trim",
+        "price": 75,
+        "description": "A compact leather wallet with sleek metallic accents. Combines functionality with a modern, sophisticated design.",
+        "category": "men's clothing",
+        "image": "",
+        "id": "6"
+    },
+    {
+        "title": "Crystal Drop Earrings",
+        "price": 70,
+        "description": "Elegant drop earrings with shimmering crystals. Ideal for special occasions or adding sparkle to your everyday style.",
+        "category": "jewelery",
+        "image": "",
+        "id": "7"
+    },
+    {
+        "title": "Tailored Wool Coat",
+        "price": 220,
+        "description": "A luxurious tailored coat crafted from fine wool. Its structured silhouette exudes elegance and warmth for the colder seasons.",
+        "category": "men's clothing",
+        "image": "",
+        "id": "8"
+    },
+    {
+        "title": "Lace Evening Gown",
+        "price": 250,
+        "description": "A stunning evening gown with delicate lace overlays and a flattering silhouette. A perfect choice for galas and formal events.",
+        "category": "women's clothing",
+        "image": "",
+        "id": "9"
+    },
+    {
+        "title": "Diamond Studded Watch",
+        "price": 320,
+        "description": "An exquisite wristwatch with a diamond-studded bezel. Combines precision with unparalleled luxury for every occasion.",
+        "category": "jewelery",
+        "image": "",
+        "id": "10"
+    }
+]
 }
